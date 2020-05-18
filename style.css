@@ -7,7 +7,7 @@ html {
       rgba(166, 210, 250, 0.45), 
       rgba(239, 156, 255, 0.45)
     ),
-  url(https://gratisography.com/wp-content/uploads/2019/11/gratisography-landscape-laptop.jpg) no-repeat center center fixed;
+  url(gratisography-landscape-laptop.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
